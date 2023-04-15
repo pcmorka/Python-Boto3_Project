@@ -21,5 +21,3 @@ items = response['Items']
 
 for item in items:
     print(item)
-
-
